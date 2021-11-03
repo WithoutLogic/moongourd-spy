@@ -3,13 +3,13 @@
         "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
         "README.md": "242acd0e61c904ac12bbd03fd785d9d5843b6ff0d8b2c0a60c78a01b64a272ce",
         "lib/migration.js": "4a8239c6e84ec3240d334be9f01ea92f90171977199b92d7d6405e49e0bd1440",
-        "lib/moongourdSpy.js": "bff2dc6d8d4b8756b67e4bff634f02843541e07b18d6b23bc0096c7e6f5f0d87",
+        "lib/moongourdSpy.js": "7930bb3c57d111ea3b9baf0e46814c112a415e74ecd16ece2fd95e652548d62c",
         "module.json": "a98662506d7e313593eb540e5356277d8f83587a5babe9ef8c4fbff7b8e39a4f",
         "package.json": "131152aea7400b49b5ce92b290857a2d38365553ef4d1e97c01ddd8c1598bdf9",
         "settings/settings.json": {
-			"overwrite": false,
-			"hash": "5cfdab96a5c1b06d573dd6d651c1f16e4b1bbdb1c0d46fe69837030dba8a799f"
-		}
+            "overwrite": false,
+            "hash": "dae921bb3b84a5e74bbc371f912a1e45366d528de989e50901ac6384df455355"
+        }
     },
     "defs": {
         "S_USER_PAPERDOLL_INFO": 15
