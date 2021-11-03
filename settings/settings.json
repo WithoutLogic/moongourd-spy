@@ -9,26 +9,38 @@
 				"continent": 3102,
 				"boss": 1000,
 				"name": "DAN",
-				"expectedDpsAvg": 15000000
+				"expectedDpsAvg": 65000000
 			},
 			{
-				"continent": 3202,
-				"boss": 1000,
-				"name": "DAH",
-				"expectedDpsAvg": 10000000
-			},
+                "continent": 3104,
+                "boss": 1000,
+                "name": "Lumikan",
+                "expectedDpsAvg": 65000000
+            },
 			{
-				"continent": 3103,
-				"boss": 1000,
-				"name": "FAU",
-				"expectedDpsAvg": 12000000
-			},
+                "continent": 444,
+                "boss": 2000,
+                "name": "Bahaar",
+                "expectedDpsAvg": 65000000
+            },
 			{
-				"continent": 456,
-				"boss": 1003,
-				"name": "TSH",
-				"expectedDpsAvg": 10000000
-			}
+                "continent": 3205,
+                "boss": 1000,
+                "name": "Rampaging Rogash",
+                "expectedDpsAvg": 65000000
+            },
+			{
+                "continent": 3107,
+                "boss": 1000,
+                "name": "Tormented Desolarus",
+                "expectedDpsAvg": 65000000
+            },
+			{
+                "continent": 3036,
+                "boss": 1000,
+                "name": "SCE",
+                "expectedDpsAvg": 65000000
+            }
 		]
 	}
 }

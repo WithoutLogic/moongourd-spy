@@ -1,14 +1,17 @@
 {
-	"files": {
-		"lib/migration.js": "180aead516b2e7c92b6d2d36791d9507c8fb671cf96f61f1c0e39e38a0dd6bbf",
-		"lib/moongourdSpy.js": "5f2a9091086a110b61bbb45809cf557df5fc394112663de31e6a7664ccf60bed",
-		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"module.json": "3ab1254e3285da67cc54d08f0f2942508dfec137d2bcce9eb5df1247c62a64b6",
-		"package.json": "84982aca09bf754415604f470d499e6dba8d2f7e8bf9d0fc2f56edd614e72eee",
-		"README.md": "c9bd4e7e509c77299f95cecb1008732a3c471fb1a21b8deacfbf1f427c578a27",
-		"settings/settings.json": {
+    "files": {
+        "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
+        "README.md": "242acd0e61c904ac12bbd03fd785d9d5843b6ff0d8b2c0a60c78a01b64a272ce",
+        "lib/migration.js": "4a8239c6e84ec3240d334be9f01ea92f90171977199b92d7d6405e49e0bd1440",
+        "lib/moongourdSpy.js": "bff2dc6d8d4b8756b67e4bff634f02843541e07b18d6b23bc0096c7e6f5f0d87",
+        "module.json": "a98662506d7e313593eb540e5356277d8f83587a5babe9ef8c4fbff7b8e39a4f",
+        "package.json": "131152aea7400b49b5ce92b290857a2d38365553ef4d1e97c01ddd8c1598bdf9",
+        "settings/settings.json": {
 			"overwrite": false,
-			"hash": "48ccbc837de8eeff7f50c11af240cb3be1f69d00e2ad3dd84a7ce0039349b7bd"
+			"hash": "5cfdab96a5c1b06d573dd6d651c1f16e4b1bbdb1c0d46fe69837030dba8a799f"
 		}
-	}
+    },
+    "defs": {
+        "S_USER_PAPERDOLL_INFO": 15
+    }
 }
