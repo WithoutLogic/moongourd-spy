@@ -6,12 +6,6 @@
         "lib/moongourdSpy.js": "78df900badb94dc698324513ca9138073a1bafe79d7bbda66801f56759bbb393",
         "module.json": "a98662506d7e313593eb540e5356277d8f83587a5babe9ef8c4fbff7b8e39a4f",
         "package.json": "131152aea7400b49b5ce92b290857a2d38365553ef4d1e97c01ddd8c1598bdf9",
-        "settings/settings.json": {
-            "overwrite": false,
-            "hash": "dae921bb3b84a5e74bbc371f912a1e45366d528de989e50901ac6384df455355"
-        }
-    },
-    "defs": {
-        "S_USER_PAPERDOLL_INFO": 16
+        "settings/settings.json": "e9322d5114207d91c6439dca77e26e713c1cab2a47e6e3f4ab350d83c4da6b13"
     }
 }

@@ -6,46 +6,67 @@
         "keepContinentsSequence": false,
         "continentsToCheck": [
             {
-                "continent": 3102,
+                "continent": 794,
+                "boss": 3000,
+                "name": "Gaaruksalk",
+                "mgVer": 1,
+                "expectedDpsAvg": 15000000
+            },
+            {
+                "continent": 3105,
                 "boss": 1000,
-                "name": "DAN",
+                "name": "Rogash",
                 "mgVer": 2,
-                "expectedDpsAvg": 100000000
+                "expectedDpsAvg": 15000000
             },
             {
-                "continent": 3104,
+                "continent": 3027,
                 "boss": 1000,
-                "name": "Lumikan",
-                "mgVer": 1,
-                "expectedDpsAvg": 65000000
-            },
-            {
-                "continent": 444,
-                "boss": 2000,
-                "name": "Bahaar",
+                "name": "Hagufna",
                 "mgVer": 2,
-                "expectedDpsAvg": 85000000
-            },
-            {
-                "continent": 3205,
-                "boss": 1000,
-                "name": "Rampaging Rogash",
-                "mgVer": 1,
-                "expectedDpsAvg": 85000000
-            },
-            {
-                "continent": 3107,
-                "boss": 1000,
-                "name": "Tormented Desolarus",
-                "mgVer": 1,
-                "expectedDpsAvg": 85000000
+                "expectedDpsAvg": 8000000
             },
             {
                 "continent": 3036,
                 "boss": 1000,
-                "name": "SCE",
-                "mgVer": 2,
-                "expectedDpsAvg": 85000000
+                "name": "Darkan",
+                "mgVer": 3,
+                "expectedDpsAvg": 10000000
+            },
+            {
+                "continent": 468,
+                "boss": 3000,
+                "name": "Imperator",
+                "mgVer": 1,
+                "expectedDpsAvg": 12000000
+            },
+            {
+                "continent": 3109,
+                "boss": 2000,
+                "name": "Hellen",
+                "mgVer": 1,
+                "expectedDpsAvg": 6500000
+            },
+            {
+                "continent": 920,
+                "boss": 3000,
+                "name": "Antaroth",
+                "mgVer": 3,
+                "expectedDpsAvg": 10000000
+            },
+            {
+                "continent": 3209,
+                "boss": 2000,
+                "name": "Slayer Hellen",
+                "mgVer": 1,
+                "expectedDpsAvg": 8500000
+            },
+            {
+                "continent": 3047,
+                "boss": 1000,
+                "name": "Shandra Manaya",
+                "mgVer": 1,
+                "expectedDpsAvg": 10000000
             }
         ]
     }
